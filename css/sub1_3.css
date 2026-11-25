@@ -1,0 +1,54 @@
+
+
+#content #map{
+    width: 100%;
+    height: 400px;
+    margin: 0 auto;
+    border: 5px solid #ccc;
+    margin-bottom: 50px;
+    box-sizing: border-box;
+}
+
+
+#content .content_area address{
+    margin: 0 auto;
+    padding: 20px;
+    width: 80%;
+    height: 30%;
+    border-radius: 30px;
+    outline: 5px solid #DDA939;
+   text-align: center;
+    background: #CE6E3A;
+   font-size: 1.3rem;
+   line-height: 1.5;
+   margin-bottom: 30px;
+}
+#content .content_area ul{width: 100%; }
+#content .content_area ul li{ 
+    padding: 30px;
+    border-top: 2px solid #ccc;
+}
+
+.content_area li dt{
+    width: 100%;
+    font-size: var(--font-gnb-size);
+    font-weight: 700;
+    color: var(--color-main);
+    margin-bottom: 20px;
+}
+#content .content_area li dt span{
+    font-size: 3rem;
+    transform: translateY(8px);
+    color: var(--color-main);
+}
+#content .content_area li dd{
+    margin-bottom: 10px;
+    font-size: var(--font-14-size);
+}
+#content .content_area li dd span{
+    color: var(--color-main);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: block;
+    margin-bottom: 5px;
+}

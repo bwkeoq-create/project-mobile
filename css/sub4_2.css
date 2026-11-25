@@ -1,0 +1,17 @@
+
+.sub_menu ul li{width: 50%;}
+#content .content_area{width: 100%; margin: 0 auto 150px;}
+#content .content_area .tab_menu ul{width:100% ;display: flex; margin: 0 auto 80px; justify-content: center;}
+#content .content_area .tab_menu ul li{width: 33.33%;}
+#content .content_area .tab_menu ul li a{padding: 15px 0; text-align: center; font-size: 1.3rem; font-weight: 600; border-radius: 10px; }
+#content .content_area .tab_menu ul li a.active{background:var(--color-point1); color: #fff;}
+
+#content .content_area .contlist{ margin-bottom: 50px; height: 780px; 
+    background: url(../images/sub4_2/person.png) left top no-repeat; background-size:70% ; display: none;}
+
+#content .content_area .contlist div{display: flex; gap: 50px; align-items: center; height: 150px;}
+
+
+#content .content_area .contlist dl{margin-left: 50px; margin-top: 30px;}
+#content .content_area .contlist div dt{color: #fff; font-size: 1.5rem; font-weight: 700; width: 150px;}
+#content .content_area .contlist div dd{color: #333; font-size: 1rem; font-weight: 500; }

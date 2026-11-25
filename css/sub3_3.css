@@ -1,0 +1,103 @@
+
+#content .content_area .concept .event{display: flex; justify-content: center; align-items: center; gap: 30px; 
+                 font-size: var(--font-gnb-size); border: 1px solid #f3f3f3; padding: 50px; margin: 150px auto; width: 100%; height: 100px;
+                 box-shadow: 1px 1px 10px 0 rgba(0,0,0,.2); border-radius: 30px; }
+#content .content_area .concept .event .under{font-size: 3rem; color: var(--color-main); font-weight: 700; margin-bottom: 30px; }
+#content .content_area .concept .event li{width: 100%; height: 70%; text-align: center; }
+#content .content_area .concept .event p{text-align: center; font-size:var(--font-gnb-size); font-weight: 600; }
+#content .content_area table{margin: 0 auto; width: 100%; height: 100%;  margin-top: 50px; margin-bottom: 50px;}
+#content .content_area table td:nth-of-type(1){background: var(--color-main); color: #f4f4f4;width: 310px;}
+#content .content_area table th{height: 50px; font-size: var(--font-14-size); border-top: 1px solid #8B857F; width: 25%; margin-left: 5px; text-align: center;  }
+#content .content_area table td{border-top: 1px solid #8B857F; height: 80px; font-size: var(--font-16-size);text-align: center;}
+#content .content_area table td span{font-size: 1.8rem; text-align: center;}
+#content .content_area .head{margin: 50px 0; text-align: center;}
+#content .content_area .head span{margin-bottom: 15px; display: block;}
+#content .content_area .head p{text-align:justify; line-height: 1.5;}
+#content .content_area h4{ font-size: var(--font-h6-size); font-weight: 600; color: var(--color-main); margin-bottom: 15px;margin-bottom: 15px;}
+#content .content_area p{text-align: left;}
+#content .content_area .p1{color: #FFCC00; margin-bottom: 30px;}
+.swiper {
+        width: 100%;
+        height: 100%;
+      }
+
+      .swiper-slide {
+        width: 100%;
+        height: 200px;
+        text-align: center;
+        font-size: 18px;
+       
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        
+      }
+      #content .content_area  .swiper-slide .icon{font-size: 3rem;gap: 80px;}
+      
+      .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+       .monogram_swiper {
+        margin-top: 50px;
+        width: 100%;
+        height: 100%;
+        background: var(--color-point1);
+        padding: 30px 20px;
+      }
+
+      .monogram_swiper  .swiper-slide {
+        
+        text-align: center;
+        font-size: 18px;
+        background: #444;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .monogram_swiper  .swiper-slide img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+        #content .content_area .concept {width: 100%;}
+     #content .content_area .mob {width: 80%; height: 60%; margin: 0 auto; text-align: center;box-shadow: var(--box-shadow1); border-radius: 50px; padding: 20px 30px 10px 30px;
+            margin-top: 50px;}
+      #content .content_area .mob .mono strong{font-size: var(--font-h5-size); color: black; display: block; margin-bottom: 20px;}
+      #content .content_area .mob .mono> p{font-size: var(--font-16-size);  text-align: justify; line-height: 1.5; margin: 20px 0; margin-bottom: 30px;}
+      #content .content_area .mob .mono a{background: var(--color-main); margin: 10px 20px 10px 30px; padding: 10px 20px ; border-radius: 50px; font-size: var(--font-gnb-size);}
+      #content .content_area .mob .mono a .arrow{color: #ccc;}
+
+       .monoswiper {
+        width: 100%;
+        height: 100%;
+        margin-top: 150px;
+      }
+
+      .monoswiper  .mono-slide {
+       display: flex;
+       flex-direction: row;
+        text-align: center;
+        font-size: 14px;
+        background: #fff;
+        border-radius: 50px;
+      }
+      .monoswiper  .mono-slide dl{width: 60%; height: 140px; text-align: left; box-shadow: var(--box-shadow1); border-radius: 0 30px 30px 0;
+                                  padding-left: 20px; padding-right: 20px;}
+      .monoswiper  .mono-slide dl dt{font-size: var(--font-gnb-size); margin-bottom: 10px; color: var(--color-main); margin-top: 10px;}
+      
+      .monoswiper  .mono-slide dl dd{font-size: var(--font-14-size); font-weight: 500;}
+      .monoswiper  .mono-slide img { 
+        display: block;
+        width: 30%;
+        height: 70%;
+        object-fit: cover;
+        border-radius: 30px 0 0 30px;
+      }
+      

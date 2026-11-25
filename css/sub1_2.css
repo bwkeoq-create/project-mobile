@@ -1,0 +1,33 @@
+
+
+.content_area{margin: 0 10px 80px;}
+
+.content_area .vision{border-top: 1px solid #ccc;}
+.content_area .vision h4{font-size: var(--font-h6-size);font-weight: 600;
+                        margin-bottom: 30px;margin-top: 30px;}
+.content_area .vision strong{display: block; font-size: var(--font-h5-size); color: #fff; transform: translateY(30px);margin-left: 50px;}
+.content_area .vision li:nth-of-type(1){width: 300px; height: 250px; background: var(--color-point1);
+                                        border-radius: 0 100px 0 ;margin-bottom: 50px;}
+.content_area .vision li:nth-of-type(2){display: flex;}
+.content_area .vision li>p{transform: translate(20px, 100px);z-index: 20;width: 830px;  
+                            color: #333;}
+.content_area .vision .conect {width: 1000px; height: 350px; background: url(../images/sub1_2/conect.png) right center no-repeat;}
+.content_area .misson{width: 100%; height: 940px; background: url(../images/sub1_2/misson.png)center no-repeat;
+                    background-size: cover ; background-size: cover;
+}
+.content_area .misson h3{padding: 70px 0 0; font-size: var(--font-h5-size); font-weight: 600; margin-bottom: 30px; color: #fff;}
+.content_area .misson> p{width: 80%; margin: 0 auto; margin-bottom: 80px; font-size: var(--font-gnb-size); color: #333;}
+.content_area .misson ul li{width: 80%; height: 100px; background: #f5f5f5c4;
+                            border-radius: 30px;  margin: 0 auto; margin-bottom: 20px; text-align: left;padding: 30px 30px;
+                            }
+.content_area .misson ul li h4{font-size: var(--font-gnb-size); color: var(--color-main); margin-bottom: 10px;}
+.content_area .misson ul li p{font-size: var(--font-16-size);}
+.content_area .icon{width: 100%; height: auto;}
+.content_area .icon h3{font-size: var(--font-h5-size); font-weight: 500; margin: 50px 0;}
+.content_area .icon ul{display: flex; flex-wrap: wrap; width: 90%; margin: 0 auto; }
+.content_area .icon li{width: 46%; height: 46%; box-shadow: 0px 3px 10px 0px #E3A55F; padding: 8%;
+                        margin: 2% 2%; box-sizing: border-box; border-radius: 50px;}
+.content_area .icon li:hover{transition: .3s ease; background: #E3A55F; color: #fff;}
+.content_area .icon p{width: 100%; font-size: var(--font-14-size);}
+.content_area .icon span{width: 100%; height: 50%; margin-top: 30%; text-align: right; font-size: 2rem;
+                        color: var(--color-point1);}

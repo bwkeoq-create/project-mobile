@@ -1,0 +1,26 @@
+
+.sub_menu ul li{width: 50%;}
+
+#content .content_area>p{margin-bottom: 30px;}
+
+.Btm { height: auto; margin: 0 auto; background: url(../images/sub2_1/trip.png) center no-repeat; 
+             background-size: cover;  overflow: hidden; padding: 30px;}
+.Btm dl{ background: rgba(121, 106, 106, 0.2);  border-radius: 30px;width: 80%; height: 80%; margin: 50px auto 40px; padding: 30px; 
+                     backdrop-filter: blur(8px); box-shadow: 0 0 10px 1px rgba(0,0,0,.2);}
+.content_area .Btm dt{font-size:1.8rem; text-align: left; margin-bottom: 20px; font-weight: 700; color: #fff;}
+.content_area .Btm dd{ font-size:1.15rem; text-align: justify; line-height: 1.6; color: #fff; word-break: break-all;}
+.smt{width: 100%; height: auto; margin-top: 50px;}
+.smt h3{font-size: var(--font-h5-size); margin-bottom: 100px;}
+.smt ul{width: 100%; display: flex; flex-wrap: wrap;  justify-content: center; }
+.smt ul li{width: 50%; text-align: center; margin-bottom: 20px;}
+.smt ul li div{width: 160px; height: 160px; background: #3375EF; border-radius: 50%; margin: 0 auto; }
+ .smt ul li .material-symbols-outlined{font-size: var(--font-h3-size); color: #fff;padding-bottom: 5px; padding-top: 40px; }
+ .smt ul li h4{font-size: var(--font-16-size);  font-weight: 500;}
+  .smt ul li p{font-size: var(--font-14-size);}
+  .smt ul li div{color: #fff;}
+  #content .Reservation{ margin-top: 50px; }
+  #content .Reservation li{ text-align: left; display: flex; box-sizing: border-box; border: 1px solid #ccc; margin-bottom: 15px;}
+  #content .Reservation img{width: 40%;}
+  #content .Reservation  div{width: 60%; color: black; margin: 10px;}
+  #content .Reservation h4{font-size: var(--font-gnb-size); font-weight: 500;margin-bottom: 20px; }
+  #content .Reservation p{font-size: var(--font-18-size); color: #333;}

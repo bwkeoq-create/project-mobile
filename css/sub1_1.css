@@ -1,0 +1,12 @@
+/* sub1_1인사말 콘텐츠 */
+
+
+.content_area img{width:100%; border-radius: 40px; margin-bottom: 15px;
+                margin-top: 50px;}
+.content_area div h4{font-size:1.5rem; margin-bottom: 15px;
+                    font-weight: 600; font-family: "Noto Sans KR", sans-serif;}
+.content_area div p{font-size: var(--font-14-size); text-align: justify;}
+
+.content_area .txt span{color: var(--color-main); font-weight: 500;font-size: var(--font-18-size);
+                        }
+.content_area .txt p{padding: 5px;}
