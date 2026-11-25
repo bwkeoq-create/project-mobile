@@ -4,13 +4,13 @@
 
 ## 🔗 PORTFOLIO URL
 * 기업형 웹 프로젝트(해태)
-    + http://bbeunbin.mycafe24.com/
+    + http://kbw0503.mycafe24.com/
 * 반응형 웹 프로젝트(박물관) 
-    + http://bbeunbin.mycafe24.com/media/
+    + http://kbw0503.mycafe24.com/media/
 * React SPA 프로젝트(기상청)
     + https://react-project-3c3bd.web.app/
 * 프로필 및 포트폴리오 링크
-    + http://bbeunbin.mycafe24.com/profile/
+    + http://kbw0503.mycafe24.com/profile/
 
 
 ### ⚒️ SKILLS
